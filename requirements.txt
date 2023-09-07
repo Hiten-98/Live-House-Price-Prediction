@@ -2,6 +2,5 @@ numpy
 pandas
 matplotlib
 streamlit
-sci-kit learn
 pickle
 xgboost
